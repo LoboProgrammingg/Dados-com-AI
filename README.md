@@ -3,7 +3,8 @@
 **Este projeto é uma solução para analisar e visualizar dados dos extratos do seu Banco, utilizando inteligência artificial para gerar descrições ideais para cada transação. O objetivo é oferecer um assistente financeiro que ajude os usuários a gerenciar melhor suas finanças.**
 
 ## Como o Projeto vai ficar:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/f782650e-3750-4e78-949a-70aed7fdbec8)
+
 
 ## Tecnologias Utilizadas
 
