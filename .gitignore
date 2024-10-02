@@ -1,0 +1,6 @@
+venv
+.env
+extratos
+despesas_mensais.csv
+finances.csv
+image.png
